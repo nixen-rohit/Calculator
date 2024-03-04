@@ -1,2 +1,2 @@
 # Calculator
-This Calculator Perform Basic Artimetaic problem 
+This Calculator Perform Basic Artimetic problem 
